@@ -1,2 +1,5 @@
 rps.py & rps2.py are my code for a rock paper scissors game on python. It is a simple game which took me less than 5 minutes to code.
 snake.py is a code for the clasic snakes game, again on python.
+Alarm.java is a java code that will start a particular playlist on your vlc media player after a stipulated amount of time
+SleepTesting.java is a java program that will start and play a specified playlist on your vlc media player for a specific amount of time
+Time given should be in 'number of hours' next line 'number of minutes' next line 'number of seconds' for both
